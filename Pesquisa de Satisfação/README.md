@@ -1,4 +1,4 @@
-#Dashboard Pesquisa de Satisfação dos Colaboradores
+# Dashboard Pesquisa de Satisfação dos Colaboradores
 
 Esse Dashboard foi realizado na imersão do evento Acelerador de Carreira com Power BI da Empowerdata.
 
