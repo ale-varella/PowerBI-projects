@@ -4,8 +4,8 @@ Esse Dashboard foi realizado na imersão do evento Acelerador de Carreira com Po
 
 As perguntas para elaborar o relatório foram:
 
-1 - Quantas perguntas foram respondidas?
-2 - Quantos cargos existem na empresa?
+Quantas perguntas foram respondidas?
+Quantos cargos existem na empresa?
 Quantos funcionários responderam a pesquisa?
 Qual é o range de idade dos funcionários?
 Qual foi a fonte de recrutamento dos funcionários?
